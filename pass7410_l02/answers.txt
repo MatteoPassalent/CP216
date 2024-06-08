@@ -1,0 +1,27 @@
+-------------------------------------------------------
+answers.txt
+-------------------------------------------------------
+Author: Matteo Passalent
+ID: 210597410
+Email: pass7410@mylaurier.ca
+Date: Feb 02 2024
+-------------------------------------------------------
+Answers for Lab 2
+-------------------------------------------------------
+
+Task 1
+- Remove ; and : from ldr operations, add =
+- Remove brackets from register in add (line 23)
+
+Task 2
+- remove f in difff
+- Add brackets to register in str
+- correct space allocated ror diff
+
+Task 3
+- Remove extra .text
+- Move #4 instead of #2 to get to next memory space (line 24 and 25)
+- correct comment (line 28)
+- Add proper register (line 29)
+- Remove unititialized data section .bss
+- Add space allocation so vec2 is set to hold 3 numbers

@@ -1,0 +1,20 @@
+-------------------------------------------------------
+answers.txt
+-------------------------------------------------------
+Author: Matteo Passalent
+ID: 210597410
+Email: pass7410@mylaurier.ca
+Date: 2024-02-10
+-------------------------------------------------------
+Answers for Lab 3
+-------------------------------------------------------
+
+Task 1
+signed decimal: -1, signed hexadecimal: ffffffff
+
+Task 2
+COUNTER address: 00001020 or 0x1020
+
+Task 3
+Changing LED_BITS changes the pattern of the LEDs that are turned on or off.
+Changing DELAY_TIME changes the speed at which the LEDS rotate

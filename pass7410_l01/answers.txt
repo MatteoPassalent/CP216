@@ -1,0 +1,19 @@
+-------------------------------------------------------
+answers.txt
+-------------------------------------------------------
+Author: Matteo Passalent
+ID: 210597410
+Email: pass7410@mylaurier.ca
+Date: Jan 21, 2024
+-------------------------------------------------------
+Answers for Lab 1
+-------------------------------------------------------
+
+Task 1
+No the behaviour does not change in anyway.
+
+Task 2
+Yes it is legal to do this
+
+Task 3
+It is not legal to add two immediate values to a register. Replacing the middle operand with a register is legal and does work. 
