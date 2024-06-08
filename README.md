@@ -1,1 +1,1 @@
-My lab exercises written in arm7 from microprocessors
+My lab exercises from microprocessors written in arm7
